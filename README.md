@@ -6,7 +6,9 @@ Menu to play Pokemon Roms on Pocket CHIP
 
 # Dependencies:
   Your GB and GBA PokemonRoms
-  Install Mednafen Emulator. 
+  
+  Install and configure Mednafen Emulator:
+    https://bbs.nextthing.co/t/mednafen-emulator-configuration-gbc-gba-snes-nes/5027
   
 # Usage:
   python pokemenu.py
